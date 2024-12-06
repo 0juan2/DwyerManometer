@@ -1,0 +1,3 @@
+C:/msys64/home/place/Codigo/ManometroDwyer/build/CMakeFiles/DeteccionManometro.dir
+C:/msys64/home/place/Codigo/ManometroDwyer/build/CMakeFiles/edit_cache.dir
+C:/msys64/home/place/Codigo/ManometroDwyer/build/CMakeFiles/rebuild_cache.dir
